@@ -7,7 +7,7 @@ Simple Burp plugin that aim to extract comments out of web pages
 
 To use this plugin, you need to setup the burp plugin environment (see [here](https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension#tab-content-codetype2))
 
-Next, get the comment-checker.py file and put it on the burp extentions directory.
+Next, get the `comment-checker.py` file and put it on the burp extentions directory.
 
 Enable the extention in the "Extentions" burp tab.
 
