@@ -30,3 +30,9 @@ _Please note that this configuration is temporary, and might probably change soo
 - [ ] Change use (Make it more user-friendly)
 - [ ] Change output (Another window ?)
 - [ ] Add full check (When you ask to scan one page, scan all found pages of that target)
+
+---
+
+### Notes
+
+Might intrest you => [RIO (automatic report generator)](https://blog.yeswehack.com/yeswerhackers/pimpmyburp/pimpmyburp-6-generate-reports-directly-burp-suite/)
